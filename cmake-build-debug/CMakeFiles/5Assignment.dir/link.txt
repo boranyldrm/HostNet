@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/5Assignment.dir/main.cpp.o CMakeFiles/5Assignment.dir/HostNet.cpp.o CMakeFiles/5Assignment.dir/Queue.cpp.o  -o 5Assignment 

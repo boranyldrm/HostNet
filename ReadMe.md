@@ -1,0 +1,1 @@
+Implement a simple host network which represents host (machine) communication relationships. In this implementation, this communication network will be represented by a graph and answer the queries, each of which corresponds to calling a member function, on this graph.
